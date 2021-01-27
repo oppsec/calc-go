@@ -1,4 +1,4 @@
-📱 Calc Go
+# 📱 Calc Go
 
 ![version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=for-the-badge)
 ![license](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
